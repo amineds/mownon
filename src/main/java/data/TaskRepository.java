@@ -9,6 +9,11 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
 
+/**
+ * This singleton class helps to load data from the entry file
+ * Main function : loadData
+ */
+
 public class TaskRepository {
 
     private Field field;

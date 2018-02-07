@@ -3,6 +3,10 @@ package data;
 import model.Instruction;
 import model.Orientation;
 
+/**
+ * This class helps to map data from the entry file to model classes : Instruction and Orientation
+ */
+
 public class Mapper {
 
     private static Mapper ourInstance = new Mapper();

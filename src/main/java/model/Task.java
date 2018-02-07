@@ -3,6 +3,12 @@ package model;
 import java.util.EnumSet;
 import java.util.List;
 
+/**
+ * Task is a set of a mower and list of instructions
+ * Note here that a task has a status
+ * @see TaskStatus
+ */
+
 public class Task {
 
     private Mower mower;

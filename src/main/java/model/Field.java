@@ -1,5 +1,10 @@
 package model;
 
+
+/**
+ * handle the coordinates of the top right point in the area to mow
+ */
+
 public class Field {
 
     private int x,  y;

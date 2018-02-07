@@ -1,5 +1,9 @@
 package model;
 
+/**
+ * X,Y coordinates & Geographical orientation
+ */
+
 public class Position {
 
     private int x,y;

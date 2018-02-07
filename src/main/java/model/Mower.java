@@ -1,5 +1,9 @@
 package model;
 
+/**
+ * Defines the engine for mowing
+ */
+
 public class Mower {
     private Position position;
 

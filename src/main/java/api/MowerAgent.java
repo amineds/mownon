@@ -5,6 +5,10 @@ import model.Mower;
 import model.Orientation;
 import model.Position;
 
+/**
+ * controls the execution of an instruction by a mower
+ */
+
 public class MowerAgent {
 
     private Mower mower;

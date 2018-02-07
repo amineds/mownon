@@ -7,6 +7,10 @@ import model.Task;
 import java.nio.file.Path;
 import java.util.List;
 
+/**
+ * controls the execution of the whole set of instructions
+ */
+
 public class TaskAgent {
 
     private TaskRepository taskRepo;
